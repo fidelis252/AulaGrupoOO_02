@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AtividadeGrupo02/1.0.0": {
+        "runtime": {
+          "AtividadeGrupo02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AtividadeGrupo02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

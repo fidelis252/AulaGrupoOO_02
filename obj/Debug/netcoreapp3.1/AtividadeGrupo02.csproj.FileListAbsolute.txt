@@ -1,0 +1,14 @@
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.exe
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.deps.json
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.runtimeconfig.json
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.runtimeconfig.dev.json
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.dll
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\bin\Debug\netcoreapp3.1\AtividadeGrupo02.pdb
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.csproj.AssemblyReference.cache
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.AssemblyInfoInputs.cache
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.AssemblyInfo.cs
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.csproj.CoreCompileInputs.cache
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.dll
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.pdb
+D:\Curso Mastering C#\02 - Módulo - Orientação a Objetos\projetos\AtividadeGrupo02\obj\Debug\netcoreapp3.1\AtividadeGrupo02.genruntimeconfig.cache
